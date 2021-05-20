@@ -1,0 +1,33 @@
+html {
+    background-color: lightblue;
+    font-family: Noto Sans JP;
+}
+
+h1 {
+text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+button {
+    font-size: 18px;
+    border: none;
+    padding:10px;
+    background-color: darkblue;
+    color:white;
+ }
+
+.quotebox {
+background-color:lightcyan;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+ }
+
+
