@@ -1,2 +1,2 @@
 # QuoteGenerator
-A vanilla javascript application designed to generate random inspirational quotes
+A vanilla javascript application that generates random quotes.
